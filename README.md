@@ -1,13 +1,15 @@
 
 # Back-End ToDo List
 
-Este projeto foi desenvolvido durante o curso de FullStack Node.js 
+Este projeto back-end foi desenvolvido durante o curso de FullStack Node.js.
 
+Para uma experência completa, acesse o  [Front-End ToDo List](https://github.com/evehste/backend-tasks) e rode o projeto completo.
 
 ## Stack utilizada
 
+**Front-end:** HTML5, CSS3, Javascript, Bootstrap
 
-**Back-end:** Node, Express
+**Back-end:** Node.JS, Express
 
 
 ## Funcionalidades
@@ -43,6 +45,20 @@ Inicie o servidor
 ```bash
   npm run dev
 ```
+
+## Variáveis de Ambiente
+
+Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
+
+`PORT` 
+
+`MYSQL_HOST`
+
+`MYSQL_USER`
+
+`MSQL_PASSWORD`
+
+`MSQL_DATABASE`
 
 
 ## Referência
